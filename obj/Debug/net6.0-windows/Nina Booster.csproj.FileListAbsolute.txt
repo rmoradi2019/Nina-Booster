@@ -1,0 +1,38 @@
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\Nina Booster.exe
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\Nina Booster.deps.json
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\Nina Booster.runtimeconfig.json
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\Nina Booster.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\Nina Booster.pdb
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.csproj.AssemblyReference.cache
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form1.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.csproj.GenerateResource.cache
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.AssemblyInfoInputs.cache
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.AssemblyInfo.cs
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.csproj.CoreCompileInputs.cache
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\refint\Nina Booster.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.pdb
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.genruntimeconfig.cache
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\ref\Nina Booster.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Properties.Resources.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form2.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form3.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina Booster.csproj.CopyComplete
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form4.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form5.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form6.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form7.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form8.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Login.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form9.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Update.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Zula.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.ChangeLog.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.MTA.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Woltk.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Form10.resources
+C:\Users\AmooReza\source\repos\Nina Booster\Nina Booster\obj\Debug\net6.0-windows\Nina_Booster.Setting.resources
